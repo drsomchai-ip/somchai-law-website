@@ -2,9 +2,9 @@ import { defineAstroPaperConfig } from "./src/types/config";
 
 export default defineAstroPaperConfig({
   site: {
-    url: "https://astro-paper.pages.dev/",
-    title: "AstroPaper",
-    description: "A minimal, responsive and SEO-friendly Astro blog theme.",
+    url: "https://somchai-law-website.pages.dev/",
+    title: "Dr. Somchai Ratanachueskul",
+    description: "บทความและข้อสังเกตทางกฎหมายเกี่ยวกับทรัพย์สินทางปัญญา ปัญญาประดิษฐ์ และกฎหมายธุรกิจ.",
     author: "Sat Naing",
     profile: "https://satna.ing",
     ogImage: "default-og.jpg",
