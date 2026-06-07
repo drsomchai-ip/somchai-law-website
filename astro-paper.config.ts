@@ -2,10 +2,10 @@ import { defineAstroPaperConfig } from "./src/types/config";
 
 export default defineAstroPaperConfig({
   site: {
-    url: "https://somchai-law-website.pages.dev/",
+    url: "https://somchai-law-website.vercel.app/",
     title: "Dr. Somchai Ratanachueskul",
     description: "บทความและข้อสังเกตทางกฎหมายเกี่ยวกับทรัพย์สินทางปัญญา ปัญญาประดิษฐ์ และกฎหมายธุรกิจ.",
-    author: "Sat Naing",
+    author: "Dr. Somchai Ratanachueskul",
     profile: "https://satna.ing",
     ogImage: "default-og.jpg",
     lang: "en",
